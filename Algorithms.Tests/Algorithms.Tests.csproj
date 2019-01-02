@@ -51,6 +51,7 @@
   <ItemGroup>
     <Compile Include="MultiplesOf3Or5Tests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="FibonachiTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/AlgorithmsChallenges/v15
+/Algorithms.Solutions/bin/Debug
+/Algorithms.Solutions/obj/Debug
+/Algorithms.Tests/bin/Debug
+/Algorithms.Tests/obj/Debug
